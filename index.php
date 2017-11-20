@@ -28,3 +28,7 @@
 
 
 
+
+
+//require("smarty.inc.php");//引入配置文件
+require ("view/site/loadimg.php");
